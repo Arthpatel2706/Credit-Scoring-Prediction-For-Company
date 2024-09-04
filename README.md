@@ -1,5 +1,5 @@
 # Credit Scoring Prediction For Company
-![image]![1](https://github.com/user-attachments/assets/f483d947-a571-4511-808b-1414b94317e3)
+(https://github.com/user-attachments/assets/f483d947-a571-4511-808b-1414b94317e3)
 
 
 Project Domain: Financial Analytics
